@@ -1,0 +1,15 @@
+{
+    "neutral": [
+        ""
+    ],
+    "gender_race": [
+        "a black male",
+        "a white male",
+        "an asian male",
+        "a hispanic male",
+        "a white female",
+        "an asian female",
+        "a hispanic female",
+        "a black female"
+    ]
+}
