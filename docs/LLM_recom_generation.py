@@ -9,7 +9,7 @@ import openai
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-parser = argparse.ArgumentParser(description='FaiRLLM')
+parser = argparse.ArgumentParser(description='LLM_bias_eval')
 parser.add_argument("--degree_list", type=str, default= "degree.csv")
 parser.add_argument("--major_list", type=str, default= "major.csv")
 parser.add_argument("--university_list", type=str, default= "university.csv")
